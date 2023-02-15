@@ -1,0 +1,14 @@
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+    authors = ["Paul Razvan Berg <hello@paulrberg.com>"]
+    description = "Simple utility for generating boilerplate Solidity contracts"
+    edition = "2021"
+    homepage = "https://github.com/PaulRBerg/rust-template"
+    license = "MIT"
+    name = "solplate"
+    version = "0.1.0"
+
+[dependencies]
+    clipboard = "0.5"
+    semver = "1.0"
