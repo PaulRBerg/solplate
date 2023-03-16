@@ -84,4 +84,4 @@ To speed up your workflow, you can add a key bind for the task in `keybindings.j
 
 ## License
 
-[MIT](./LICENSE.md) © Paul Razvan Berg
+This project is licensed under MIT.
