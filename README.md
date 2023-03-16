@@ -24,7 +24,7 @@ cargo install --path .
 
 ## Usage
 
-With no arguments:
+With no arguments (defaults to the latest Solidity version):
 
 ```sh
 $ solplate
