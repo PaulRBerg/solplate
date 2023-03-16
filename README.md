@@ -62,7 +62,7 @@ You can add Solplate as a task in your global [`tasks.json`](https://stackoverfl
   "inputs": [
     {
       "id": "version",
-      "default": "0.8.18",
+      "default": "0.8.19",
       "description": "Solidity version",
       "type": "promptString"
     }

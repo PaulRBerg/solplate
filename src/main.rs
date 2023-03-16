@@ -5,7 +5,7 @@ use clipboard::{ClipboardContext, ClipboardProvider};
 
 fn main() {
     // Use the most recent version of Solidity by default.
-    let mut version: String = "0.8.18".to_string();
+    let mut version: String = "0.8.19".to_string();
 
     // Use the provided version if one is provided.
     if let Some(arg) = env::args().nth(1) {
