@@ -97,7 +97,7 @@ checksum = "58bc9567378fc7690d6b2addae4e60ac2eeea07becb2c64b9f218b53865cba2a"
 
 [[package]]
 name = "solplate"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "clipboard",
  "semver",

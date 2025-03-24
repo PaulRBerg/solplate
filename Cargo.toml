@@ -7,7 +7,7 @@
     homepage = "https://github.com/PaulRBerg/rust-template"
     license = "MIT"
     name = "solplate"
-    version = "0.1.1"
+    version = "0.1.2"
 
 [dependencies]
     clipboard = "0.5"
